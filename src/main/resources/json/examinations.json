@@ -138,5 +138,215 @@
     "exam1": 9,
     "exam2": 8,
     "exam3": 9
+  },
+  {
+    "id": 21,
+    "studentId": 21,
+    "exam1": 8,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 22,
+    "studentId": 22,
+    "exam1": 7,
+    "exam2": 4,
+    "exam3": 9
+  },
+  {
+    "id": 23,
+    "studentId": 23,
+    "exam1": 9,
+    "exam2": 8,
+    "exam3": 7
+  },
+  {
+    "id": 24,
+    "studentId": 24,
+    "exam1": 9,
+    "exam2": 6,
+    "exam3": 8
+  },
+  {
+    "id": 25,
+    "studentId": 25,
+    "exam1": 10,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 26,
+    "studentId": 26,
+    "exam1": 8,
+    "exam2": 5,
+    "exam3": 9
+  },
+  {
+    "id": 27,
+    "studentId": 27,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 6
+  },
+  {
+    "id": 28,
+    "studentId": 28,
+    "exam1": 9,
+    "exam2": 7,
+    "exam3": 9
+  },
+  {
+    "id": 29,
+    "studentId": 29,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
+  },
+  {
+    "id": 30,
+    "studentId": 30,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
+  },
+  {
+    "id": 31,
+    "studentId": 31,
+    "exam1": 8,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 32,
+    "studentId": 32,
+    "exam1": 7,
+    "exam2": 4,
+    "exam3": 9
+  },
+  {
+    "id": 33,
+    "studentId": 33,
+    "exam1": 9,
+    "exam2": 8,
+    "exam3": 7
+  },
+  {
+    "id": 34,
+    "studentId": 34,
+    "exam1": 9,
+    "exam2": 6,
+    "exam3": 8
+  },
+  {
+    "id": 35,
+    "studentId": 35,
+    "exam1": 10,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 36,
+    "studentId": 36,
+    "exam1": 8,
+    "exam2": 5,
+    "exam3": 9
+  },
+  {
+    "id": 37,
+    "studentId": 37,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 6
+  },
+  {
+    "id": 38,
+    "studentId": 38,
+    "exam1": 9,
+    "exam2": 7,
+    "exam3": 9
+  },
+  {
+    "id": 39,
+    "studentId": 39,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
+  },
+  {
+    "id": 40,
+    "studentId": 40,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
+  },
+  {
+    "id": 41,
+    "studentId": 41,
+    "exam1": 8,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 42,
+    "studentId": 42,
+    "exam1": 7,
+    "exam2": 4,
+    "exam3": 9
+  },
+  {
+    "id": 43,
+    "studentId": 43,
+    "exam1": 9,
+    "exam2": 8,
+    "exam3": 7
+  },
+  {
+    "id": 44,
+    "studentId": 44,
+    "exam1": 9,
+    "exam2": 6,
+    "exam3": 8
+  },
+  {
+    "id": 45,
+    "studentId": 45,
+    "exam1": 10,
+    "exam2": 9,
+    "exam3": 7
+  },
+  {
+    "id": 46,
+    "studentId": 46,
+    "exam1": 8,
+    "exam2": 5,
+    "exam3": 9
+  },
+  {
+    "id": 47,
+    "studentId": 47,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 6
+  },
+  {
+    "id": 48,
+    "studentId": 48,
+    "exam1": 9,
+    "exam2": 7,
+    "exam3": 9
+  },
+  {
+    "id": 49,
+    "studentId": 49,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
+  },
+  {
+    "id": 50,
+    "studentId": 50,
+    "exam1": 7,
+    "exam2": 9,
+    "exam3": 8
   }
 ]
